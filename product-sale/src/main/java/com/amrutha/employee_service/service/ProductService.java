@@ -1,6 +1,6 @@
 package com.amrutha.employee_service.service;
 
-import com.amrutha.employee_service.Repository.ProductRepository;
+import com.amrutha.employee_service.repository.ProductRepository;
 import com.amrutha.employee_service.entity.Product;
 import com.amrutha.employee_service.entity.Sale;
 import com.amrutha.employee_service.model.ProductDTO;
